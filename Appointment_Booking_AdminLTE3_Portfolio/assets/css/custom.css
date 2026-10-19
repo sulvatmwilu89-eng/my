@@ -1,0 +1,6 @@
+.content-wrapper { min-height: calc(100vh - 114px); }
+.brand-image { opacity: .9; }
+.card-title { font-weight: 600; }
+.required-label:after { content: " *"; color: #dc3545; }
+.small-box .icon { top: 8px; }
+.project-note { border-left: 4px solid #17a2b8; padding: 10px 14px; background: #f4fbfd; }
